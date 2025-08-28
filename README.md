@@ -1,5 +1,6 @@
 # SoftwareEngineering_StarUML
 # Active StarUML on Window/MacOS/Linux
+# Thank you [https://gist.github.com/K1ethoang/83267585235bbb6a55e5479ae969d7a3]
 
 - Step 1: Download and install StarUML Version 6 from main website https://staruml.io
 - Step 2: Download `app.asar` file from https://drive.google.com/file/d/1_sKvHVL6SebnYF73iZxSWD9l48Pddzvj/view?usp=sharing
