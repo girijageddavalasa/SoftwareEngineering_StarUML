@@ -1,13 +1,17 @@
 # filesdetails 
-## Lab Assessment 1
-  
-1.    1. Identify suitable SDLC model for your project and apply the phases in that model for software development. Document in detail each phases and steps in product development 
-2.    2. Design Gantt chart for your project. with all the steps to construct  Gantt chart, and final Gantt chart  (also upload the resource page).  
-3.    3. Design work breakdown structure for your project. with all the steps to construct WBS, and final WBS.  
+
+Lab Assessment 1
+Identify suitable SDLC model for your project and apply the phases in that model for software development. Document in detail each phases and steps in product development 
+Design Gantt chart for your project. with all the steps to construct  Gantt chart, and final Gantt chart  (also upload the resource page).  
+Design work breakdown structure for your project. with all the steps to construct WBS, and final WBS.  
 
 Lab assessment 2  
-
-1.   Submit a single pdf file with following diagrams  
 ER diagram 
 Usecase diagram  
 DFD diagram level 0, level 1, level 2  
+
+Lab assessment 3
+ACTIVITY DIAGRAM
+SWIMLANE DIAGRAM
+CLASS DIAGRAM
+ 
